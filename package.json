@@ -1,9 +1,10 @@
-"homepage": "https://Swagatika-Behera23.github.io/react_portfolio",
+
 {
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Swagatika-Behera23.github.io/react_portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
